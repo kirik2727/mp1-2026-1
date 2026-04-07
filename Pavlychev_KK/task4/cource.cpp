@@ -377,7 +377,7 @@ public:
 };
 
 int main() {
-    setlocale(LC_ALL, "Ru_ru.UTF8");
+    setlocale(LC_ALL, "Russian");
 
     ContactsBook book;
 
